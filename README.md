@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/traume-aus-samt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Träume aus Samt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/traume-aus-samt/) |
+| **Get License** | [Request Licensing for Träume aus Samt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/traume-aus-samt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0ba7cbba6684cac62f9f7f5ae1dd9b72ff5275c80a037d716ea7990b15c1cde6` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
