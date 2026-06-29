@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/traume-aus-samt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Träume aus Samt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/traume-aus-samt/) |
+| **Get License** | [Get a Licensing Quote for Träume aus Samt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/traume-aus-samt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Der Bass vibriert so tief, doch ich schau' in dein Gesicht
+> Du trägst ein Kleid aus Samt, Baby, stehst im Neonlicht
+> Komm, steig in meinen Benz, lass uns einfach von hier flieh'n
+> Wir rasen durch die Nacht, ganz allein in West-Berlin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
